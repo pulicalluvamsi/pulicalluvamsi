@@ -24,8 +24,8 @@
 - 🔭 I’m currently working on Elite Techno Groups
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Technology
-- 💬 Ask me about Computrvision
-- 📫 How to reach me: pythonlife telegram group
+- 💬 Ask me about Computer vision
+- 📫 How to reach me: pulicalluvamsi@gmail.com
   <br>
 </div>
 
